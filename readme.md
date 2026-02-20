@@ -14,7 +14,7 @@ The story uses an interactive web map combined with narrative text, images, and 
 
 View the storymap here:
 
-https://YOUR_USERNAME.github.io/geog458StoryMap/
+https://allenval.github.io/geog458StoryMap/
 
 ---
 
