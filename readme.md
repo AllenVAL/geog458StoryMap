@@ -40,6 +40,4 @@ https://YOUR_USERNAME.github.io/geog458StoryMap/
 - QGIS (data preparation)  
 - GitHub Pages (hosting)
 
----
 
-## Project Structure
