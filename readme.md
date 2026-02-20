@@ -4,7 +4,7 @@ I used AI in this assignment for: debugging only.  I did not use AI to write or 
 
 # Farmers Markets in Seattle — GeoNarrative StoryMap
 
-This project is a map-based storytelling application that explores the spatial distribution of farmers markets across Seattle. The GeoNarrative highlights how farmers markets are located in different neighborhoods and how they serve as important places for accessing fresh food and supporting local communities.
+This project is a map-based storytelling application that explores the spatial distribution of farmers markets across Seattle. The GeoNarrative highlights how farmers markets are located in different neighborhoods and how they serve as important places for accessing fresh food and supporting local communities. The project also includes the introduction of two exmaples of outstanding farmers market in Seattle for UW students. 
 
 The story uses an interactive web map combined with narrative text, images, and transitions between scenes to guide the viewer through different parts of the city. It demonstrates how geospatial visualization can help communicate patterns of food access and community gathering spaces.
 
